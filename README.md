@@ -2,7 +2,7 @@
 
 # Built with:
  - Sass (.scss extension)
- - Layout flexbox and CSS grid
+ - Layout flexbox
  - HTML
  - responsive design
  - added dropdown menu and hover effects
